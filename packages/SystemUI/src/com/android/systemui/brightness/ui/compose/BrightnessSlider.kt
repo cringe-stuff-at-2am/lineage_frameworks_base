@@ -441,7 +441,7 @@ private fun drawAutoBrightnessButton(
     IconButton(
         onClick = { coroutineScope.launch { onIconClick() } },
         modifier = Modifier
-            .size(52.dp)
+            .size(40.dp)
             .clip(CircleShape)
             .background(backgroundColor)
     ) {
