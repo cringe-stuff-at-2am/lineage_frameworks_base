@@ -295,4 +295,8 @@
         <item>#1AA64A</item>
         <item>#D37B00</item>
     </array>
+
+    <!-- Mobile data enable confirmation dialog: "Don't ask me again" checkbox row -->
+    <color name="mobile_data_dialog_checkbox_bg">@color/materialColorSurfaceContainerHigh</color>
+    <color name="mobile_data_dialog_checkbox_text">@color/materialColorOnSurface</color>
 </resources>
