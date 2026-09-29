@@ -115,7 +115,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:importantForAccessibility="no"
-                android:fontFamily="@*android:string/config_bodyFontFamily"
+                android:fontFamily="variable-label-large"
+                android:textSize="14sp"
                 android:text="@string/screenrecord_lowquality_summary"
                 android:textAppearance="?android:attr/textAppearanceSmall"
                 android:textColor="?android:textColorSecondary"/>
@@ -160,7 +161,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:importantForAccessibility="no"
-                android:fontFamily="@*android:string/config_bodyFontFamily"
+                android:fontFamily="variable-label-large"
+                android:textSize="14sp"
                 android:text="@string/screenrecord_longer_timeout_switch_summary"
                 android:textAppearance="?android:attr/textAppearanceSmall"
                 android:textColor="?android:textColorSecondary"/>
@@ -205,7 +207,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:importantForAccessibility="no"
-                android:fontFamily="@*android:string/config_bodyFontFamily"
+                android:fontFamily="variable-label-large"
+                android:textSize="14sp"
                 android:text="@string/screenrecord_skip_time_summary"
                 android:textAppearance="?android:attr/textAppearanceSmall"
                 android:textColor="?android:textColorSecondary"/>
@@ -250,7 +253,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:importantForAccessibility="no"
-                android:fontFamily="@*android:string/config_bodyFontFamily"
+                android:fontFamily="variable-label-large"
+                android:textSize="14sp"
                 android:text="@string/screenrecord_hevc_switch_summary"
                 android:textAppearance="?android:attr/textAppearanceSmall"
                 android:textColor="?android:textColorSecondary"/>
