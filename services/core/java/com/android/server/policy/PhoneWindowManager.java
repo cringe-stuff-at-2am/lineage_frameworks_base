@@ -5567,6 +5567,7 @@ public class PhoneWindowManager implements WindowManagerPolicy {
                         }
                     }
                 }
+                result &= ~ACTION_PASS_TO_USER;
                 break;
             }
             case KeyEvent.KEYCODE_VOICE_ASSIST: {
